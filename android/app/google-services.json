@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126819527621",
+    "project_id": "chzcruise",
+    "storage_bucket": "chzcruise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126819527621:android:28097c1cf9d3ac60a039ac",
+        "android_client_info": {
+          "package_name": "com.chzcruise.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126819527621-ivid4ufckgmg1luv09u0llfnpq48juic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chzcruise.app",
+            "certificate_hash": "0e00b9f6cc8afc757b6a84bd0e183760cae2cde3"
+          }
+        },
+        {
+          "client_id": "126819527621-cvasmpt6lh6r1kl8mjqrlrcctl52usj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNjs_VZ3K4am3RCwEIqYpH7lItarnTW9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126819527621-cvasmpt6lh6r1kl8mjqrlrcctl52usj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
